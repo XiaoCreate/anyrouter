@@ -1,7 +1,7 @@
 # AnyRouter - Cloudflare Workers 配置
 # 敏感信息请通过 Cloudflare Dashboard 或 wrangler secret 配置
 
-name = "anyrouter"
+name = "any-router-proxy"
 main = "anyrouter.js"
 compatibility_date = "2024-01-01"
 
